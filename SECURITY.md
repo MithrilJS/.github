@@ -18,8 +18,8 @@ The following areas are considered in-scope:
 
 The following submissions are considered out-of-scope, as they are dangerous to assess and/or provide minimal security benefit to the project:
 
-- Findings of ReDoS in the selector parser - selectors are considered trusted input by our threat model
-- Findings of arbitrary script execution driven by selectors - selectors are considered trusted input by our threat model
+- Findings of ReDoS in the core selector parser - selectors are considered trusted input by our threat model
+- Findings of arbitrary script execution driven by selectors in the DOM renderer - selectors are considered trusted input by our threat model
 - Findings of behavior that is consistent with the HTML Living Standard, except for arbitrary code execution as part of event processing
 - Findings exploiting a browser vulnerability, operating system vulnerability, hardware vulnerability, or similar. This includes native code execution, browser crashes, and so on
 - Findings that only reproduce on platforms other than those we support
