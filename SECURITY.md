@@ -2,7 +2,7 @@
 
 The Mithril developers deeply value the security of our projects. We encourage all who discover exploits and security vulnerabilities to responsibly disclose them to us upon discovery.
 
-If you discover a security vulnerability, please feel free to use our vulnerability reporting here or reach out privately at <contact@claudiameadows.dev>. We ask that you do not publicly disclose any vulnerability until we release a patch or if 90 days have passed since we received the initial report, whichever comes first. At the time of writing, we do not offer bug bounties, nor are we aware of anyone who offers bug bounties for vulnerabilities in this project.
+If you discover a security vulnerability, please feel free to use our vulnerability reporting system here. We ask that you do not publicly disclose any vulnerability until we release a patch or if 90 days have passed since we received the initial report, whichever comes first. At the time of writing, we do not offer bug bounties, nor are we aware of anyone who offers bug bounties for vulnerabilities in this project.
 
 ### Targets
 
